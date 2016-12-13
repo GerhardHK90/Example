@@ -1,5 +1,5 @@
 #define BLINK_DELAY 1000
-#define BLINK_DELAY_2 2000
+#define BLINK_DELAY_2 500
 
 void setup() {
   // put your setup code here, to run once:
